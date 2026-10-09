@@ -1,0 +1,6 @@
+{
+  "name": "सैदौरा जन-सेवा पोर्टल (Saidoura Panchayat Grievance & Info Portal)",
+  "description": "ग्राम पंचायत सैदौरा (दतिया, म.प्र.) का स्वतंत्र जन-शिकायत निवारण एवं पंचायत सूचना पोर्टल - हमारा गाँव, हमारी भागीदारी, हमारा विकास।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
